@@ -1,0 +1,10 @@
+git add ...  nombre de los archivos
+git add --all
+git commit -m  ... nombre del commit entre comillas
+
+git push origin ... rama de trabajo
+git pull
+
+git tag -a... nombre del tag sin comillas -m... mensaje del tag entre comillas
+git push origin v1.0.0 ... subir tag a github
+git show ... nombre del tag 
